@@ -1,0 +1,11 @@
+nnn : 3 
+ooo : 3 
+aaq : 3 
+fff : 2 
+lll : 2 
+ando : 2 
+sasha : 2 
+asd : 0 
+hhh : 0 
+jjj : 0 
+mmm : 0 
